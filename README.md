@@ -89,7 +89,7 @@ class Rachel:
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/rac521/rac521/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/rac521/rac521/gh-pages/github-contribution-grid-snake.svg"/>
 
 </p>
 
