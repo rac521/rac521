@@ -8,7 +8,7 @@
 
 ---
 
-<h2 align="center">👋 About Me</h2>
+<h2 align="center">About Me</h2>
 
 <p align="center">
 
@@ -29,7 +29,7 @@ Today, I'm a final-year Computer Science Engineering student who enjoys learning
 
 ---
 
-<h2 align="center">💻 Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,c,java,js,react,nodejs,express,flutter,dart,mysql,mongodb,postgres,git,github,vscode,androidstudio,html,css,figma&perline=8"/>
@@ -38,13 +38,13 @@ Today, I'm a final-year Computer Science Engineering student who enjoys learning
 ---
 
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center">GitHub Analytics</h2>
 
 <div align="center"> <img src="https://streak-stats.demolab.com?user=rac521&theme=tokyonight&hide_border=true"/> </div>
 
 ---
 
-<h2 align="center">🌟 Developer Philosophy</h2>
+<h2 align="center">Developer Philosophy</h2>
 
 ```python
 class Rachel:
@@ -61,7 +61,7 @@ class Rachel:
 
 ---
 
-<h2 align="center">📫 Let's Connect</h2>
+<h2 align="center">Let's Connect</h2>
 
 <p align="center">
 
